@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nikhil%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=55&descAlign=50)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Malik%20Nikhil&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=55&descAlign=50)
+
+<img src="./profile.jpg" width="160" height="160" style="border-radius:50%;object-fit:cover;" alt="Malik Nikhil"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+%26+Design+%40+VTU;React.js+%7C+Node.js+%7C+Express.js;Machine+Learning+%2B+NLP+Enthusiast;Building+Ideas+Into+Working+Products" alt="Typing SVG" />
@@ -32,7 +34,7 @@
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> About Me
 
 ```yaml
-name: Nikhil Malik
+name: Malik Nikhil
 role: CS & Design Undergraduate
 university: Atria Institute of Technology (VTU)
 focus:
