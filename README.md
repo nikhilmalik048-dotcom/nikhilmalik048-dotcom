@@ -2,7 +2,9 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Malik%20Nikhil&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=55&descAlign=50)
 
-<img src="./profile.jpg" width="160" height="160" style="border-radius:50%;object-fit:cover;" alt="Malik Nikhil"/>
+<img src="./profile-scan.svg" width="220" alt="Malik Nikhil"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+%26+Design+%40+VTU;React.js+%7C+Node.js+%7C+Express.js;Machine+Learning+%2B+NLP+Enthusiast;Building+Ideas+Into+Working+Products" alt="Typing SVG" />
@@ -31,7 +33,7 @@
 
 <br/>
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Malik Nikhil
@@ -53,7 +55,7 @@ open_to:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -77,7 +79,7 @@ open_to:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Folder.png" width="28"/> Featured Projects
+## 📁 Featured Projects
 
 <details open>
 <summary><b>🎓 Assignment Management System</b></summary>
@@ -138,7 +140,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Trophy.png" width="28"/> Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -152,7 +154,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Graduation%20Cap.png" width="28"/> Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -163,7 +165,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Activities/Video%20Game.png" width="28"/> Coding Profiles
+## 🎮 Coding Profiles
 
 <div align="center">
 
@@ -173,7 +175,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -186,7 +188,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Medal.png" width="28"/> GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -196,7 +198,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Chart%20Increasing.png" width="28"/> Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -206,7 +208,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Snake.png" width="28"/> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -216,7 +218,7 @@ Includes game-over detection with a "wrong sequence" flash animation and instant
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Direct%20Hit.png" width="28"/> Current Focus
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -240,7 +242,7 @@ open_to:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="28"/> Connect
+## 🤝 Connect
 
 <div align="center">
 
