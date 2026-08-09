@@ -77,17 +77,6 @@ open_to:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Robot.png" width="28"/> AI / ML Focus
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **NLP & Text Classification** | 🟣🟣🟣⚪⚪ | Tokenization, stopword removal, stemming, TF-IDF vectorization |
-| **Model Training** | 🟣🟣🟣⚪⚪ | scikit-learn classifiers, model serialization & deployment |
-| **ML Deployment** | 🟣🟣⚪⚪⚪ | Flask REST inference APIs, Heroku deployment pipeline |
-| **Data Structures & Algorithms** | 🟣🟣🟣🟣⚪ | 100+ problems solved on LeetCode |
-
----
-
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Folder.png" width="28"/> Featured Projects
 
 <details open>
